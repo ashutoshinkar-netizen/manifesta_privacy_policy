@@ -1,0 +1,6 @@
+{
+  "name": "MANIFESTA",
+  "description": "Premium AI manifestation and affirmation app: Think it. Feel it. Become it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
